@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**KC-git-usr/KC-git-usr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A wild "Kumar" has appreared on your screen!
 
-Here are some ideas to get you started:
+The Git-Dex has the following information on Kumar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Kumar is a passionate Robotics Software Engineer/Developer interested in autonomous systems
+- 🌱 Currently learning: MARL and POMDP
+- 👯 Looking to collaborate on: any ROS2 project
+- 💬 Ask him about: anything related to robotics algorithms and CMake 🤖
+- 📫 How to reach him: [LinkedIn](https://www.linkedin.com/in/kumar-ramesh/)
+- ⚡ Fun fact: Kumar loves skateboarding
+
+Check out what I've been working on!

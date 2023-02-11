@@ -9,6 +9,6 @@ Kumar is a passionate Robotics Software Engineer/Developer interested in autonom
 - 👯 Looking to collaborate on: any ROS2 project
 - 💬 Ask him about: anything related to robotics algorithms and CMake 🤖
 - 📫 How to reach him: [LinkedIn](https://www.linkedin.com/in/kumar-ramesh/)
-- ⚡ Fun fact: Kumar loves skateboarding
+- ⚡ Fun fact: Kumar loves reading Tolkein's and Lovecraft's work
 
 Check out what I've been working on!

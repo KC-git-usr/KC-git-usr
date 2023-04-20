@@ -12,3 +12,5 @@ Kumar is a passionate Robotics Software Engineer/Developer interested in autonom
 - ⚡ Fun fact: Kumar loves reading Tolkein's and Lovecraft's work
 
 Check out what I've been working on!
+
+📺[Youtube](https://www.youtube.com/@kumar-ramesh)
